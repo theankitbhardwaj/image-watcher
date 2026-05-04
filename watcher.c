@@ -11,6 +11,7 @@ const char *DEST_DIR = "/home/ankit/Pictures";
 int is_image(const char *filename) {
     return strstr(filename, ".jpg") ||
            strstr(filename, ".jpeg") ||
+           strstr(filename, ".webp") ||
            strstr(filename, ".png");
 }
 
