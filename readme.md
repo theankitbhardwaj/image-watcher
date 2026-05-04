@@ -2,7 +2,7 @@
 
 A minimal Linux utility built using raw **inotify syscalls** to automatically detect and move newly added image files from one directory to another.
 
-# Blog
+## Blog
 - [inotify - watching file changes efficiently](https://techrail.in/authors/ankit/2026/inotify-linux)
 
 ## Features
